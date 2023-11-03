@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"os"
-
-	"github.com/Dmitry-GDG/game-life/pkg/application"
+	// "github.com/Dmitry-GDG/game-life/pkg/application"
+	//_ "github.com/Dmitry-GDG/game-life/"
 )
 
 // import (
