@@ -3,8 +3,7 @@ package life_test
 import (
 	"fmt"
 	"testing"
-
-	"github.com/Dmitry-GDG/game/pkg/life"
+	//"github.com/Dmitry-GDG/game-/pkg/life"
 )
 
 func TestNewWorld(t *testing.T) {
