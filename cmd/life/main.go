@@ -4,7 +4,7 @@ import (
 	"context"
 	"os"
 
-	"github.com/Dmitry-GDG/game/pkg/application"
+	"github.com/Dmitry-GDG/game-life/pkg/application"
 )
 
 // import (
